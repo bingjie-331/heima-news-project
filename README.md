@@ -1,2 +1,4 @@
-# heima-news-project
-My first frontend project
+# 黑马头条项目
+这是我独立完成的前端实战项目。
+包含登录、富文本发布、文章列表渲染、分页、筛选、增删改查等功能。
+这个项目让我学会了 AJAX 和 DOM 操作
